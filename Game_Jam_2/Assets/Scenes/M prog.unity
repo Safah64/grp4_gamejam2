@@ -276,6 +276,7 @@ MonoBehaviour:
   right: 100
   left: 97
   jumpKey: 32
+  crouchKey: 115
   jumpForce: 5
   groundCheck: {fileID: 1099554817}
   groundDistance: 0.2
@@ -491,7 +492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::cameraMovement
   player: {fileID: 846948263}
-  smoothSpeed: 1
+  smoothSpeed: 5
   offset: {x: 0, y: 2, z: -10}
 --- !u!1 &1883125264
 GameObject:
@@ -549,7 +550,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 9.6, y: 1.41}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -606,7 +607,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -5623194428626525839, guid: 61645e1da971e63429d5c63d26506b2a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -6,6 +6,7 @@ public class Playermovement : MonoBehaviour
     [SerializeField] KeyCode right = KeyCode.D;
     [SerializeField] KeyCode left = KeyCode.A;
     [SerializeField] KeyCode jumpKey = KeyCode.Space;
+    [SerializeField] KeyCode crouchKey = KeyCode.S;
 
     public float jumpForce = 5f;
     public Transform groundCheck;
@@ -14,7 +15,7 @@ public class Playermovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private bool isGrounded;
-
+    
 
     void Start()
     {
@@ -45,12 +46,20 @@ public class Playermovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
+        //check if crouching
+        if (Input.GetKeyDown(crouchKey) && isGrounded)
+        {
+            crouch();
+        }
+      
+    }
 
+    void crouch()
+    {
+        transform.localScale = new Vector3(transform.localScale.x, transform.localScale.y / 2, transform.localScale.z);
     }
 
 
 
 
-
-   
 }
