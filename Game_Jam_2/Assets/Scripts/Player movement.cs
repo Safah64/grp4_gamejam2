@@ -20,7 +20,7 @@ public class Playermovement : MonoBehaviour
 
     float standingSize;
     float crouchingSize;
-    public Transform firepoint;
+    
     
 
     void Start()
