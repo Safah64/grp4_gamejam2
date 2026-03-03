@@ -45,8 +45,6 @@ public class Playermovement : MonoBehaviour
         {
             transform.Translate(Vector3.left * speed * Time.deltaTime);
             transform.localScale = new Vector3(-1, transform.localScale.y, transform.localScale.z);
-
-
         }
        
 
@@ -56,15 +54,12 @@ public class Playermovement : MonoBehaviour
         if (Input.GetKeyDown(jumpKey) && isGrounded)
         {
             jump();
-          
         }
 
         //check if crouching
         if (Input.GetKeyDown(crouchKey) && isGrounded)
         {
-            crouch();
-            
-            
+            crouch(); 
         }
       else if (Input.GetKeyUp(crouchKey))
         {
@@ -72,26 +67,16 @@ public class Playermovement : MonoBehaviour
         }
 
 
-       
-
-
-
     }
-
+       
     void crouch()
     {
         transform.localScale = new Vector3(transform.localScale.x, crouchingSize, transform.localScale.z);
     }
-
-
     void jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-        
     }
-
-   
-
 
 
 
