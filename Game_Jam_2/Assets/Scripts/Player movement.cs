@@ -20,7 +20,8 @@ public class Playermovement : MonoBehaviour
 
     float standingSize;
     float crouchingSize;
-
+    public Transform firepoint;
+    
 
     void Start()
     {
@@ -38,10 +39,14 @@ public class Playermovement : MonoBehaviour
         if (Input.GetKey(right))
         {
             transform.Translate(Vector3.right * speed * Time.deltaTime);
+            transform.localScale = new Vector3(1, transform.localScale.y, transform.localScale.z);
         }
         if (Input.GetKey(left))
         {
             transform.Translate(Vector3.left * speed * Time.deltaTime);
+            transform.localScale = new Vector3(-1, transform.localScale.y, transform.localScale.z);
+
+
         }
        
 
@@ -65,6 +70,12 @@ public class Playermovement : MonoBehaviour
         {
             transform.localScale = new Vector3(transform.localScale.x, standingSize, transform.localScale.z);
         }
+
+
+       
+
+
+
     }
 
     void crouch()
@@ -78,5 +89,11 @@ public class Playermovement : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         
     }
+
+   
+
+
+
+
 
 }
