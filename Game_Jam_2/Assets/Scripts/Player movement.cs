@@ -1,4 +1,6 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class Playermovement : MonoBehaviour
 {
@@ -12,13 +14,18 @@ public class Playermovement : MonoBehaviour
     public Transform groundCheck;
     public float groundDistance = 0.2f;
     public LayerMask groundLayer;
-
+    
     private Rigidbody2D rb;
     private bool isGrounded;
-    
+
+    float standingSize;
+    float crouchingSize;
+
 
     void Start()
     {
+        standingSize = transform.localScale.y;
+        crouchingSize = standingSize / 2;
         print(speed);
         print(jumpForce);
 
@@ -43,23 +50,33 @@ public class Playermovement : MonoBehaviour
 
         if (Input.GetKeyDown(jumpKey) && isGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            jump();
+          
         }
 
         //check if crouching
         if (Input.GetKeyDown(crouchKey) && isGrounded)
         {
             crouch();
+            
+            
         }
-      
+      else if (Input.GetKeyUp(crouchKey))
+        {
+            transform.localScale = new Vector3(transform.localScale.x, standingSize, transform.localScale.z);
+        }
     }
 
     void crouch()
     {
-        transform.localScale = new Vector3(transform.localScale.x, transform.localScale.y / 2, transform.localScale.z);
+        transform.localScale = new Vector3(transform.localScale.x, crouchingSize, transform.localScale.z);
     }
 
 
-
+    void jump()
+    {
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        
+    }
 
 }
