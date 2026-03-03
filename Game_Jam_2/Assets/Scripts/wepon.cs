@@ -2,36 +2,21 @@ using UnityEngine;
 
 public class wepon : MonoBehaviour
 {
-    private Playermovement playerMovement;
+    
 
-
-    public Transform firepointRight;
-    public Transform firepointLeft;
+    public Transform firepoint;
+    
     public GameObject bulletPrefab;
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            if (playerMovement.transform.localScale.x > 0)
-            {
-                shootRight();
-            }
-            else
-            {
-                shootLeft();
-            }
+            GameObject bullet = Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
+            bullet.transform.right = transform.right * transform.localScale.x; // Set the bullet's right direction to match the weapon's right direction
+           
         }
     }
 
 
-void shootRight()
-    {
-        //shooting logic
-        Instantiate(bulletPrefab, firepointRight.position, firepointRight.rotation);  
-    }
-void shootLeft()
-    {
-        //shooting logic
-        Instantiate(bulletPrefab, firepointLeft.position, firepointLeft.rotation);  
-    }
+
 }
