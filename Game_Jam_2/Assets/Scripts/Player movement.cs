@@ -21,8 +21,11 @@ public class Playermovement : MonoBehaviour
     float standingSize;
     float crouchingSize;
     
-    public int health = 100;
+    public int maxhealth = 100;
+    public int currentHealth;
 
+    public healthBarScript healthBar;
+    
 
     void Start()
     {
@@ -32,6 +35,9 @@ public class Playermovement : MonoBehaviour
         print(jumpForce);
 
         rb= GetComponent<Rigidbody2D>();
+
+        currentHealth = maxhealth;
+        healthBar.SetMaxHealth(maxhealth);
     }
 
     // Update is called once per frame
@@ -79,7 +85,20 @@ public class Playermovement : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
-   
+    // made public and PascalCase so other scripts can call it
+    public void takeDamage(int damage)
+    {
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
 
-
+    void Die()
+    {
+        // Code to handle player death (e.g., play animation, respawn, etc.)
+        Destroy(gameObject);
+    }
 }

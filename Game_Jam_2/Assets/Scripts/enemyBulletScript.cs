@@ -5,7 +5,9 @@ public class enemyBulletScript : MonoBehaviour
     private GameObject player;
     private Rigidbody2D rb;
     public float force;
+    public int damage = 10; // configurable damage
     private float timer;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -31,7 +33,12 @@ public class enemyBulletScript : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            other.gameObject.GetComponent<Playermovement>().health -= 20;
+            // get the Playermovement component from the collided player object and call the public method
+            Playermovement pm = other.GetComponent<Playermovement>();
+            if (pm != null)
+            {
+                pm.takeDamage(damage);
+            }
             Destroy(gameObject);
         }
     }
