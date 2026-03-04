@@ -21,7 +21,8 @@ public class Playermovement : MonoBehaviour
     float standingSize;
     float crouchingSize;
     
-    
+    public int health = 100;
+
 
     void Start()
     {
