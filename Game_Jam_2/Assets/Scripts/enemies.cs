@@ -6,6 +6,11 @@ public class enemies : MonoBehaviour
     private GameObject player;
     private Rigidbody2D rb;
     public float force;
+    public Transform playerTransform;
+    public float speed = 5f;
+    public float maxDistance = 8f;
+    
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -14,7 +19,26 @@ public class enemies : MonoBehaviour
         rb.linearVelocity = new Vector2(direction.x, direction.y).normalized * force;
     }
 
+    void Update()
+    {
 
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance <= maxDistance)
+        {
+            FollowPlayer();
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        }
+    }
+
+    void FollowPlayer()
+    {
+        Vector2 direction = (playerTransform.position - transform.position).normalized;
+        rb.linearVelocity = new Vector2(direction.x * speed, rb.linearVelocity.y);
+    }
 
 
     public void TakeDamage(int damage)
@@ -32,3 +56,4 @@ public class enemies : MonoBehaviour
     } 
   
 }
+

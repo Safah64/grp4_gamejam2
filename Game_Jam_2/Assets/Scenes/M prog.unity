@@ -152,6 +152,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::enemies
   health: 100
+  force: 0
 --- !u!61 &95596110
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -266,7 +267,7 @@ Transform:
   m_GameObject: {fileID: 95596108}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.46, y: -2.47, z: 0}
+  m_LocalPosition: {x: 5.46, y: -2.85, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -303,7 +304,7 @@ GameObject:
   - component: {fileID: 846948266}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -453,6 +454,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  health: 100
 --- !u!50 &846948265
 Rigidbody2D:
   serializedVersion: 5
