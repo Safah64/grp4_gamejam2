@@ -7,7 +7,7 @@ public class StartMenuController : MonoBehaviour
 {
     public void OnStartClick()
     {
-        SceneManager.LoadScene("SampleScene"); // byta sen till spelet
+        SceneManager.LoadScene("bora"); // byta sen till spelet
     }
 
     public void OnExitClick()
