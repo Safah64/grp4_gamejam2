@@ -25,6 +25,7 @@ public class Playermovement : MonoBehaviour
     public int currentHealth;
 
     public healthBarScript healthBar;
+    public restartScreen gameOverMenu;
     
 
     void Start()
@@ -93,12 +94,13 @@ public class Playermovement : MonoBehaviour
         if (currentHealth <= 0)
         {
             Die();
+           
         }
     }
 
     void Die()
     {
-        // Code to handle player death (e.g., play animation, respawn, etc.)
-        Destroy(gameObject);
+        gameOverMenu.ShowGameOver();
+       
     }
 }
