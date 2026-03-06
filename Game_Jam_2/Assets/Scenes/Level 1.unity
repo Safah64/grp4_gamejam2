@@ -129,8 +129,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7669038}
   - component: {fileID: 7669037}
-  - component: {fileID: 7669036}
   - component: {fileID: 7669039}
+  - component: {fileID: 7669036}
   m_Layer: 0
   m_Name: Portol
   m_TagString: Untagged
@@ -1214,7 +1214,7 @@ MonoBehaviour:
   left: 97
   jumpKey: 32
   crouchKey: 115
-  jumpForce: 5
+  jumpForce: 7
   groundCheck: {fileID: 290801043}
   groundDistance: 0.2
   groundLayer:
@@ -7143,7 +7143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de361ee90033d84eaebcc2dd408a19d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::cameraMovement
-  player: {fileID: 0}
+  player: {fileID: 944660826}
   smoothSpeed: 4
   offset: {x: 0, y: 2, z: -10}
 --- !u!114 &1755504653
