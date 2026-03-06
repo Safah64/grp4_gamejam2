@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3766249289848263377}
   - component: {fileID: 5081593798985335445}
   - component: {fileID: 1600026017672698018}
+  - component: {fileID: 5985631922356664995}
   m_Layer: 0
   m_Name: boss
   m_TagString: Untagged
@@ -125,6 +126,52 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemybullet
   enemyBullet: {fileID: 3006972490316723432, guid: f8a6b40e740966e40b625c3ce00f9cf6, type: 3}
   bulletPos: {fileID: 2143739278588676630}
+--- !u!61 &5985631922356664995
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6198430711247536693}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &7187450006129363131
 GameObject:
   m_ObjectHideFlags: 0
