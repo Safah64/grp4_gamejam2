@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 1137679208895275422}
   - component: {fileID: 988525613421102455}
   - component: {fileID: 1591590096258987407}
+  - component: {fileID: 8738887632036233429}
   m_Layer: 0
   m_Name: enemy_shoot
   m_TagString: Untagged
@@ -203,3 +204,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemybullet
   enemyBullet: {fileID: 3006972490316723432, guid: f8a6b40e740966e40b625c3ce00f9cf6, type: 3}
   bulletPos: {fileID: 8290648893389928797}
+--- !u!50 &8738887632036233429
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8407757702795830016}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
