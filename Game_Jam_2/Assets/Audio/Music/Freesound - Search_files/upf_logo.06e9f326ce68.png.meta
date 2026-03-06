@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 6bc958bd3216faa4d9aad72d75790932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7333828723784933235
+    second: upf_logo.06e9f326ce68_0
+  - first:
+      213: 4306381193031553886
+    second: upf_logo.06e9f326ce68_1
+  - first:
+      213: 5945370124687839404
+    second: upf_logo.06e9f326ce68_2
+  - first:
+      213: 4468014872448497534
+    second: upf_logo.06e9f326ce68_3
+  - first:
+      213: -1253880527669192206
+    second: upf_logo.06e9f326ce68_4
+  - first:
+      213: -967103702652713124
+    second: upf_logo.06e9f326ce68_5
+  - first:
+      213: -3044175987083573909
+    second: upf_logo.06e9f326ce68_6
+  - first:
+      213: 6594577955031671606
+    second: upf_logo.06e9f326ce68_7
+  - first:
+      213: 8183603837814543711
+    second: upf_logo.06e9f326ce68_8
+  - first:
+      213: 6781008739559483640
+    second: upf_logo.06e9f326ce68_9
+  - first:
+      213: 6413673237569267422
+    second: upf_logo.06e9f326ce68_10
+  - first:
+      213: 1647046973173287853
+    second: upf_logo.06e9f326ce68_11
+  - first:
+      213: 2284848703164877812
+    second: upf_logo.06e9f326ce68_12
+  - first:
+      213: -2012534567419453992
+    second: upf_logo.06e9f326ce68_13
+  - first:
+      213: 885135625140846292
+    second: upf_logo.06e9f326ce68_14
+  - first:
+      213: 836916559702295667
+    second: upf_logo.06e9f326ce68_15
+  - first:
+      213: -4885005757875134011
+    second: upf_logo.06e9f326ce68_16
+  - first:
+      213: -4480349613435441279
+    second: upf_logo.06e9f326ce68_17
+  - first:
+      213: -8743643877046461853
+    second: upf_logo.06e9f326ce68_18
+  - first:
+      213: 5920382271134565879
+    second: upf_logo.06e9f326ce68_19
+  - first:
+      213: 4658563254314871011
+    second: upf_logo.06e9f326ce68_20
+  - first:
+      213: 7622423954793607383
+    second: upf_logo.06e9f326ce68_21
+  - first:
+      213: 8598558434747414757
+    second: upf_logo.06e9f326ce68_22
+  - first:
+      213: 1747294735984709070
+    second: upf_logo.06e9f326ce68_23
+  - first:
+      213: 2697336401624359314
+    second: upf_logo.06e9f326ce68_24
+  - first:
+      213: 5081891711683183332
+    second: upf_logo.06e9f326ce68_25
+  - first:
+      213: 4920656199604022423
+    second: upf_logo.06e9f326ce68_26
+  - first:
+      213: -494196262614383722
+    second: upf_logo.06e9f326ce68_27
+  - first:
+      213: 5193361184961352873
+    second: upf_logo.06e9f326ce68_28
+  - first:
+      213: -2228566625237255012
+    second: upf_logo.06e9f326ce68_29
+  - first:
+      213: 4541826344377691387
+    second: upf_logo.06e9f326ce68_30
+  - first:
+      213: 4727580508689128807
+    second: upf_logo.06e9f326ce68_31
+  - first:
+      213: 6720936615836102640
+    second: upf_logo.06e9f326ce68_32
+  - first:
+      213: 3948106098163014229
+    second: upf_logo.06e9f326ce68_33
+  - first:
+      213: -7738753204225877964
+    second: upf_logo.06e9f326ce68_34
+  - first:
+      213: 7840445534273838693
+    second: upf_logo.06e9f326ce68_35
+  - first:
+      213: -4252809446672408982
+    second: upf_logo.06e9f326ce68_36
+  - first:
+      213: -4477035384731211542
+    second: upf_logo.06e9f326ce68_37
+  - first:
+      213: 5987085427400276289
+    second: upf_logo.06e9f326ce68_38
+  - first:
+      213: 5753499250079997223
+    second: upf_logo.06e9f326ce68_39
+  - first:
+      213: 465268554508467643
+    second: upf_logo.06e9f326ce68_40
+  - first:
+      213: 4620023694022220273
+    second: upf_logo.06e9f326ce68_41
+  - first:
+      213: -5438525612739410834
+    second: upf_logo.06e9f326ce68_42
+  - first:
+      213: -8201380319471314535
+    second: upf_logo.06e9f326ce68_43
+  - first:
+      213: 8262449410148893167
+    second: upf_logo.06e9f326ce68_44
+  - first:
+      213: 1451759401969716062
+    second: upf_logo.06e9f326ce68_45
+  - first:
+      213: -3695142938006622770
+    second: upf_logo.06e9f326ce68_46
+  - first:
+      213: -8755278223464303945
+    second: upf_logo.06e9f326ce68_47
+  - first:
+      213: 7885352091085782503
+    second: upf_logo.06e9f326ce68_48
+  - first:
+      213: -7252649011323756507
+    second: upf_logo.06e9f326ce68_49
+  - first:
+      213: 5863478820408518266
+    second: upf_logo.06e9f326ce68_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802e3bc1a1093a90800000000000000
+      internalID: -7333828723784933235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53911ef0e653cb30800000000000000
+      internalID: 4306381193031553886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 77
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01d34e0a2328250800000000000000
+      internalID: 5945370124687839404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77747b9ad3910e30800000000000000
+      internalID: 4468014872448497534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99f7dad42599ee0800000000000000
+      internalID: -1253880527669192206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 77
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c578b6e6e482492f0800000000000000
+      internalID: -967103702652713124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 77
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650c18811ae0c5d0800000000000000
+      internalID: -3044175987083573909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 77
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e845e5b5a48b50800000000000000
+      internalID: 6594577955031671606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559577f450029170800000000000000
+      internalID: 8183603837814543711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 77
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82344758bfa1e50800000000000000
+      internalID: 6781008739559483640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 77
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6eeb614d1f10950800000000000000
+      internalID: 6413673237569267422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 79
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab4064ee7c7bd610800000000000000
+      internalID: 1647046973173287853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 79
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb87a53ac965bf10800000000000000
+      internalID: 2284848703164877812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 79
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd4ca497a0214e0800000000000000
+      internalID: -2012534567419453992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de30925922a84c00800000000000000
+      internalID: 885135625140846292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37482b74d235d9b00800000000000000
+      internalID: 836916559702295667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c16d142529f43cb0800000000000000
+      internalID: -4885005757875134011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2f95b3c992d1c0800000000000000
+      internalID: -4480349613435441279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 45
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a502a383658a680800000000000000
+      internalID: -8743643877046461853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 45
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f50f7dde4c692250800000000000000
+      internalID: 5920382271134565879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 45
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82021099a86a040800000000000000
+      internalID: 4658563254314871011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b6e8933a48c960800000000000000
+      internalID: 7622423954793607383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 45
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8fe8bd657345770800000000000000
+      internalID: 8598558434747414757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 45
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd47480e43af3810800000000000000
+      internalID: 1747294735984709070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ec8a8a2dde6520800000000000000
+      internalID: 2697336401624359314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 47
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2c0e53691868640800000000000000
+      internalID: 5081891711683183332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca8372ebea94440800000000000000
+      internalID: 4920656199604022423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 46
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6934b851e134429f0800000000000000
+      internalID: -494196262614383722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 47
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a45ceb6b76821840800000000000000
+      internalID: 5193361184961352873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 46
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c3178367a8211e0800000000000000
+      internalID: -2228566625237255012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 47
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca4202ffec70f30800000000000000
+      internalID: 4541826344377691387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 46
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dd973cc6dbb9140800000000000000
+      internalID: 4727580508689128807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 46
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa3d83e30954d50800000000000000
+      internalID: 6720936615836102640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 47
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a5f8c049d7ac630800000000000000
+      internalID: 3948106098163014229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43853b166fc6a9490800000000000000
+      internalID: -7738753204225877964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_35
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 46
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e90374cabdecc60800000000000000
+      internalID: 7840445534273838693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 47
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5aa1375cfaf4c0800000000000000
+      internalID: -4252809446672408982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_37
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 46
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ed36b9006ed1c0800000000000000
+      internalID: -4477035384731211542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_38
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 41
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1497c1ca976661350800000000000000
+      internalID: 5987085427400276289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 41
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9e78a51988df40800000000000000
+      internalID: 5753499250079997223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf2a40947f47600800000000000000
+      internalID: 465268554508467643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f91510621f9d1040800000000000000
+      internalID: 4620023694022220273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 13
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64cdce05c97684b0800000000000000
+      internalID: -5438525612739410834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 13
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999580e5d08de2e80800000000000000
+      internalID: -8201380319471314535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe18f8256fd1aa270800000000000000
+      internalID: 8262449410148893167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 13
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b0dbdfb7fa52410800000000000000
+      internalID: 1451759401969716062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_46
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd62d9531738bcc0800000000000000
+      internalID: -3695142938006622770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 13
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b272bcd7d00f7680800000000000000
+      internalID: -8755278223464303945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 13
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3d0ec2f56e6d60800000000000000
+      internalID: 7885352091085782503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a57f762a695b90800000000000000
+      internalID: -7252649011323756507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upf_logo.06e9f326ce68_50
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e97ecbe24f5150800000000000000
+      internalID: 5863478820408518266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      upf_logo.06e9f326ce68_0: -7333828723784933235
+      upf_logo.06e9f326ce68_1: 4306381193031553886
+      upf_logo.06e9f326ce68_10: 6413673237569267422
+      upf_logo.06e9f326ce68_11: 1647046973173287853
+      upf_logo.06e9f326ce68_12: 2284848703164877812
+      upf_logo.06e9f326ce68_13: -2012534567419453992
+      upf_logo.06e9f326ce68_14: 885135625140846292
+      upf_logo.06e9f326ce68_15: 836916559702295667
+      upf_logo.06e9f326ce68_16: -4885005757875134011
+      upf_logo.06e9f326ce68_17: -4480349613435441279
+      upf_logo.06e9f326ce68_18: -8743643877046461853
+      upf_logo.06e9f326ce68_19: 5920382271134565879
+      upf_logo.06e9f326ce68_2: 5945370124687839404
+      upf_logo.06e9f326ce68_20: 4658563254314871011
+      upf_logo.06e9f326ce68_21: 7622423954793607383
+      upf_logo.06e9f326ce68_22: 8598558434747414757
+      upf_logo.06e9f326ce68_23: 1747294735984709070
+      upf_logo.06e9f326ce68_24: 2697336401624359314
+      upf_logo.06e9f326ce68_25: 5081891711683183332
+      upf_logo.06e9f326ce68_26: 4920656199604022423
+      upf_logo.06e9f326ce68_27: -494196262614383722
+      upf_logo.06e9f326ce68_28: 5193361184961352873
+      upf_logo.06e9f326ce68_29: -2228566625237255012
+      upf_logo.06e9f326ce68_3: 4468014872448497534
+      upf_logo.06e9f326ce68_30: 4541826344377691387
+      upf_logo.06e9f326ce68_31: 4727580508689128807
+      upf_logo.06e9f326ce68_32: 6720936615836102640
+      upf_logo.06e9f326ce68_33: 3948106098163014229
+      upf_logo.06e9f326ce68_34: -7738753204225877964
+      upf_logo.06e9f326ce68_35: 7840445534273838693
+      upf_logo.06e9f326ce68_36: -4252809446672408982
+      upf_logo.06e9f326ce68_37: -4477035384731211542
+      upf_logo.06e9f326ce68_38: 5987085427400276289
+      upf_logo.06e9f326ce68_39: 5753499250079997223
+      upf_logo.06e9f326ce68_4: -1253880527669192206
+      upf_logo.06e9f326ce68_40: 465268554508467643
+      upf_logo.06e9f326ce68_41: 4620023694022220273
+      upf_logo.06e9f326ce68_42: -5438525612739410834
+      upf_logo.06e9f326ce68_43: -8201380319471314535
+      upf_logo.06e9f326ce68_44: 8262449410148893167
+      upf_logo.06e9f326ce68_45: 1451759401969716062
+      upf_logo.06e9f326ce68_46: -3695142938006622770
+      upf_logo.06e9f326ce68_47: -8755278223464303945
+      upf_logo.06e9f326ce68_48: 7885352091085782503
+      upf_logo.06e9f326ce68_49: -7252649011323756507
+      upf_logo.06e9f326ce68_5: -967103702652713124
+      upf_logo.06e9f326ce68_50: 5863478820408518266
+      upf_logo.06e9f326ce68_6: -3044175987083573909
+      upf_logo.06e9f326ce68_7: 6594577955031671606
+      upf_logo.06e9f326ce68_8: 8183603837814543711
+      upf_logo.06e9f326ce68_9: 6781008739559483640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
