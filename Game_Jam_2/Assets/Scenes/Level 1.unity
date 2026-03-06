@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d5e4ca8f67b42649bfa284d72e7ece7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Portal
-  nextLevelName: 
+  nextLevelName: level 2
 --- !u!212 &7669037
 SpriteRenderer:
   serializedVersion: 2
@@ -323,6 +323,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7753172086405906690, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -380,6 +384,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7753172086405906690, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -433,6 +441,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4990463039095743968, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     - target: {fileID: 5396930497453978886, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_Name
       value: enemy shoot
@@ -597,6 +609,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7753172086405906690, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -804,6 +820,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7753172086405906690, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
+    - target: {fileID: 8753877506587390410, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 792601532}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1011,7 +1035,7 @@ Transform:
   m_GameObject: {fileID: 792601530}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.7, y: 3.39, z: 0}
+  m_LocalPosition: {x: -7, y: 3.39, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1067,6 +1091,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4990463039095743968, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     - target: {fileID: 5396930497453978886, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_Name
       value: enemy shoot (3)
@@ -7498,6 +7526,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4990463039095743968, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     - target: {fileID: 5396930497453978886, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_Name
       value: enemy shoot (1)
@@ -7559,6 +7591,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7753172086405906690, guid: e776dbf32c79398489d30e03abbfcd88, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7987,6 +8023,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4990463039095743968, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 792601536}
     - target: {fileID: 5396930497453978886, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_Name
       value: enemy shoot (2)

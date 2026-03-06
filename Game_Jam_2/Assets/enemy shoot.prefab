@@ -214,7 +214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::enemies
   health: 100
   force: 0
-  playerTransform: {fileID: 0}
+  playerTransform: {fileID: 2616429918773097669, guid: b8e24f4c2beb8e0429d9144365cfa66c, type: 3}
   speed: 3
   maxDistance: 10
 --- !u!114 &7589639628742293960

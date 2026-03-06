@@ -155,7 +155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::enemies
   health: 100
   force: 0
-  playerTransform: {fileID: 0}
+  playerTransform: {fileID: 2616429918773097669, guid: b8e24f4c2beb8e0429d9144365cfa66c, type: 3}
   speed: 5
   maxDistance: 8
 --- !u!50 &1622995012162569448
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e0f3f88fd29fc140a2e905434fe08e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::enemyMele
-  player: {fileID: 0}
+  player: {fileID: 2313556778973884115, guid: b8e24f4c2beb8e0429d9144365cfa66c, type: 3}
   attackRange: 1.5
   damage: 10
   attackCooldown: 1
