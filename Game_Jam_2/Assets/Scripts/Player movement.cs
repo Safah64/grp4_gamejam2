@@ -57,10 +57,7 @@ public class Playermovement : MonoBehaviour
 
         // Determine whether the player is moving (keyboard keys or horizontal axis)
         bool isMoving = Input.GetKey(right) || Input.GetKey(left) || Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0f;
-        if (animator != null)
-        {
-            animator.SetBool("isRunning", isMoving);
-        }
+       
 
         // Check if grounded
         RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, groundDistance, groundLayer);

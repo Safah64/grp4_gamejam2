@@ -21,5 +21,6 @@ public class restartScreen : MonoBehaviour
     {
         Time.timeScale = 1f;
         Application.Quit();
+        Debug.Log("Game Closed");
     }
 }
