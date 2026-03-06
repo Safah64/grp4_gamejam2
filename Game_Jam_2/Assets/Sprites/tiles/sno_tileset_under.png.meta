@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0828d41c73d25f74486027c03e563ceb
+guid: c37134e8332464c469f090c56d115165
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -707376828020751236
-    second: sno_tileset_left_0
+      213: 487168808334659906
+    second: sno_tileset_under_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sno_tileset_left_0
+      name: sno_tileset_under_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c740b73d584ee26f0800000000000000
-      internalID: -707376828020751236
+      spriteID: 24110763375c2c600800000000000000
+      internalID: 487168808334659906
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sno_tileset_left_0: -707376828020751236
+      sno_tileset_under_0: 487168808334659906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

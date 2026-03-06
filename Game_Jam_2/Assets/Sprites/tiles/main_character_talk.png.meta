@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 0828d41c73d25f74486027c03e563ceb
+guid: 257dcb204d96fd343a613adb2a11a413
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -707376828020751236
-    second: sno_tileset_left_0
+      213: -7648418512054830230
+    second: main_character_talk_0
+  - first:
+      213: -3748688015157051849
+    second: main_character_talk_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 200
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sno_tileset_left_0
+      name: main_character_talk_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 240
-        height: 240
+        x: 9
+        y: 102
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c740b73d584ee26f0800000000000000
-      internalID: -707376828020751236
+      spriteID: a6b3377e2eb5bd590800000000000000
+      internalID: -7648418512054830230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_talk_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 147
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ebcc29c1cf9fbc0800000000000000
+      internalID: -3748688015157051849
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sno_tileset_left_0: -707376828020751236
+      main_character_talk_0: -7648418512054830230
+      main_character_talk_1: -3748688015157051849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
