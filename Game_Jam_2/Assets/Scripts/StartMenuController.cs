@@ -5,16 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class StartMenuController : MonoBehaviour
 {
-    public void OnStartClick()
+    public void StartGame()
     {
-        SceneManager.LoadScene("bora"); // byta sen till spelet
+        SceneManager.LoadScene("bora"); // name of game scene
     }
 
-    public void OnExitClick()
+    public void ExitGame()
     {
-#if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false; // börja spelet om man trycker på "start"
-#endif
-        Application.Quit(); // om inte (trycker på exit) lämnar man spelet.
+        Debug.Log("Game Closed");
+        Application.Quit();
     }
 }
