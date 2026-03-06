@@ -12320,7 +12320,7 @@ MonoBehaviour:
   left: 97
   jumpKey: 32
   crouchKey: 115
-  jumpForce: 5
+  jumpForce: 7
   groundCheck: {fileID: 972029009}
   groundDistance: 0.2
   groundLayer:
@@ -12329,6 +12329,7 @@ MonoBehaviour:
   maxhealth: 100
   currentHealth: 0
   healthBar: {fileID: 1682649587}
+  gameOverMenu: {fileID: 0}
 --- !u!50 &780307434
 Rigidbody2D:
   serializedVersion: 5
@@ -12554,11 +12555,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4415430705377225559, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -117.947266
+      value: -116.53
       objectReference: {fileID: 0}
     - target: {fileID: 4415430705377225559, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.9093008
+      value: -2.77
       objectReference: {fileID: 0}
     - target: {fileID: 4415430705377225559, guid: bd85fb80e895e9240a679ea68e253f49, type: 3}
       propertyPath: m_LocalPosition.z
