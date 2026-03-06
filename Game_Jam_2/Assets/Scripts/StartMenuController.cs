@@ -7,7 +7,7 @@ public class StartMenuController : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("bora"); // name of game scene
+        SceneManager.LoadScene("level 1"); // name of game scene
     }
 
     public void ExitGame()

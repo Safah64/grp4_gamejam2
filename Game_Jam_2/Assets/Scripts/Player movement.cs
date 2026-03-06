@@ -26,8 +26,8 @@ public class Playermovement : MonoBehaviour
 
     public healthBarScript healthBar;
     public restartScreen gameOverMenu;
-    
 
+    [SerializeField] private Animator animator;
     void Start()
     {
         standingSize = transform.localScale.y;
@@ -35,7 +35,7 @@ public class Playermovement : MonoBehaviour
         print(speed);
         print(jumpForce);
 
-        rb= GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
 
         currentHealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
@@ -54,10 +54,14 @@ public class Playermovement : MonoBehaviour
             transform.Translate(Vector3.left * speed * Time.deltaTime);
             transform.localScale = new Vector3(-1, transform.localScale.y, transform.localScale.z);
         }
+
+        // Determine whether the player is moving (keyboard keys or horizontal axis)
+        bool isMoving = Input.GetKey(right) || Input.GetKey(left) || Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0f;
        
 
         // Check if grounded
-        isGrounded = Physics2D.Raycast(groundCheck.position, Vector2.down, groundDistance, groundLayer);
+        RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, groundDistance, groundLayer);
+        isGrounded = hit.collider != null;
 
         if (Input.GetKeyDown(jumpKey) && isGrounded)
         {
@@ -69,12 +73,10 @@ public class Playermovement : MonoBehaviour
         {
             crouch(); 
         }
-      else if (Input.GetKeyUp(crouchKey))
+        else if (Input.GetKeyUp(crouchKey))
         {
             transform.localScale = new Vector3(transform.localScale.x, standingSize, transform.localScale.z);
         }
-
-
     }
        
     void crouch()

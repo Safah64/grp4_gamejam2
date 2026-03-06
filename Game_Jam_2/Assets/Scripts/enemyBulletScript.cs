@@ -5,7 +5,7 @@ public class enemyBulletScript : MonoBehaviour
     private GameObject player;
     private Rigidbody2D rb;
     public float force;
-    public int damage = 10; // configurable damage
+    public int damage = 25; // configurable damage
     private float timer;
 
     void Start()
