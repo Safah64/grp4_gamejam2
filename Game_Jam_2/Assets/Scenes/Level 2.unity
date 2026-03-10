@@ -302,7 +302,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.24989116, g: 0.3870905, b: 0.836478, a: 1}
@@ -323,7 +323,7 @@ Transform:
   m_GameObject: {fileID: 12897603}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.7, y: 1.9, z: 0}
+  m_LocalPosition: {x: -7.6, y: 1.32, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -387,6 +387,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (6)
@@ -950,6 +954,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (8)
@@ -1116,6 +1124,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (4)
@@ -1252,6 +1264,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (10)
@@ -13261,6 +13277,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (11)
@@ -13511,6 +13531,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (12)
@@ -13647,6 +13671,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (1)
@@ -14152,6 +14180,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (2)
@@ -14283,6 +14315,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (5)
@@ -14661,6 +14697,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (9)
@@ -14913,6 +14953,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele
@@ -15115,6 +15159,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (7)
@@ -15180,6 +15228,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (13)
@@ -15664,6 +15716,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (3)
@@ -15729,6 +15785,10 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 12897609}
+    - target: {fileID: 3019135599629850412, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7780007863034257034, guid: 762e758bbde176f4a9800d5d1a9e214a, type: 3}
       propertyPath: m_Name
       value: enemi mele (14)
@@ -15915,7 +15975,7 @@ Transform:
   m_GameObject: {fileID: 2128058834}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.11, y: -0.37, z: 10}
+  m_LocalPosition: {x: 0.74, y: 0.4, z: 10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
