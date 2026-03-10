@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class enemyBulletScript : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     private GameObject player;
     private Rigidbody2D rb;
     public float force;

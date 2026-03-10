@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class bulletScript : MonoBehaviour
 {
+    // hela gjort av Montaser
     public float speed = 20f;
     public int damage = 35;
     public Rigidbody2D rb;

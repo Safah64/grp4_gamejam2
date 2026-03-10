@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class StartMenuController : MonoBehaviour
 {
+    // hela gjort av Bora
     public void StartGame()
     {
         SceneManager.LoadScene("level 1"); // name of game scene

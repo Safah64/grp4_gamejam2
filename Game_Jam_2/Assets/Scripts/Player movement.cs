@@ -4,6 +4,8 @@ using UnityEngine.Rendering;
 
 public class Playermovement : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     [SerializeField] private float speed = 5f;
     [SerializeField] KeyCode right = KeyCode.D;
     [SerializeField] KeyCode left = KeyCode.A;

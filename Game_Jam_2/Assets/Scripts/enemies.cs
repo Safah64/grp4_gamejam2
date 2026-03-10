@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class enemies : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     public int health = 100;
     private GameObject player;
     private Rigidbody2D rb;

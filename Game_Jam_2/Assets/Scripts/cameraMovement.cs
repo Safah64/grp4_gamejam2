@@ -4,6 +4,7 @@ using static UnityEngine.GraphicsBuffer;
 
 public class cameraMovement : MonoBehaviour
 {
+    // hela gjort av Montaser
 
     public Transform player; // Reference to the player's transform
     public float smoothSpeed = 4f; // Smoothing speed for camera movement

@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class restartScreen : MonoBehaviour
 {
+    // hela gjort av Montaser
     public GameObject gameOverUI;
 
     public void ShowGameOver()

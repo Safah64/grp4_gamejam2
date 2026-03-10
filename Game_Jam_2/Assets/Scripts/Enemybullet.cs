@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Enemybullet : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     public GameObject enemyBullet;
     public Transform bulletPos;
     private GameObject player;

@@ -2,6 +2,8 @@ using UnityEngine;
 using UnityEngine.UI;
 public class healthBarScript : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     public Slider slider;
    
     public void SetMaxHealth(int health)

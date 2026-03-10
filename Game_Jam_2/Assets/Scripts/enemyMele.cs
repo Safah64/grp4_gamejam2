@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class enemyMele : MonoBehaviour
 {
+    // hela gjort av Montaser
+
     public Playermovement player;   // reference to  player script
     public float attackRange = 1.5f;
     public int damage = 10;

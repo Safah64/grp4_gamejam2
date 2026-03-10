@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class wepon : MonoBehaviour
 {
-    
+    // hela gjort av Montaser
 
     public Transform firepoint;
     
