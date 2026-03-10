@@ -2,15 +2,14 @@ using UnityEngine;
 
 public class DontDestroyMusic : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Awake()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        // Only keep one instance of the music
+        if (FindObjectsOfType<DontDestroyMusic>().Length > 1)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        DontDestroyOnLoad(gameObject);
     }
 }
