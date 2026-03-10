@@ -1044,6 +1044,8 @@ MonoBehaviour:
   maxhealth: 100
   currentHealth: 0
   healthBar: {fileID: 620414964}
+  gameOverMenu: {fileID: 0}
+  animator: {fileID: 0}
 --- !u!50 &846948265
 Rigidbody2D:
   serializedVersion: 5
@@ -1126,7 +1128,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1178566503}
   - component: {fileID: 1178566502}
-  - component: {fileID: 1178566501}
   - component: {fileID: 1178566504}
   - component: {fileID: 1178566505}
   m_Layer: 0
@@ -1136,14 +1137,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1178566501
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1178566500}
-  m_Enabled: 1
 --- !u!20 &1178566502
 Camera:
   m_ObjectHideFlags: 0
